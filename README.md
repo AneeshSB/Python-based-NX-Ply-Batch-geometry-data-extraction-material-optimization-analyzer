@@ -7,7 +7,7 @@ A Python/Tkinter journal for Siemens NX that batch processes ply data to generat
 
 ## Demo
 
-![Tool Demo GIF](assets/demo.gif)
+![Tool Demo GIF](assets/full_demo.gif)
 
 📺 **[Click here to watch the full High-Quality Video](assets/full_demo.mp4)**
 
